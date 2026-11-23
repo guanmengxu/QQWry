@@ -25,4 +25,4 @@ A [Delphi](http://www.embarcadero.com/products/delphi) interface to [QQWry](http
 
 ## 其他
 
-初步 Delphi 2007-12.x, Lazarus/Typhon/FPC/FMX x86/x64/arm64 一切正常，大家有问题及时反馈 ！？
+初步 Delphi 2007-12.x, Lazarus/Typhon/FPC/FMX x86/x64/arm64 一切正常，大家有问题及时反馈 ！
